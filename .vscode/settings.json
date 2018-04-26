@@ -1,0 +1,27 @@
+{
+    "gotoSymbolStack.currentStackPosition": 0,
+    "gotoSymbolStack.maxStackPosition": 0,
+    "gotoSymbolStack.filePositionInfo": [],
+    "files.associations": {
+        "msp430.h": "c"
+    },
+    "cSpell.words": [
+        "aclk",
+        "ccie",
+        "dir",
+        "gie",
+        "green",
+        "id",
+        "led",
+        "leds",
+        "lfxt",
+        "red",
+        "taccr",
+        "tacctl",
+        "tactl",
+        "tassel",
+        "wdtctl",
+        "wdthold",
+        "wdtpw"
+    ]
+}
